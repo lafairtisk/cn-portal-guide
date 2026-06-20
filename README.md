@@ -1,2 +1,14 @@
 # cn-portal-guide
-HTML page archive and documentation
+
+自动发布文件目录
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
